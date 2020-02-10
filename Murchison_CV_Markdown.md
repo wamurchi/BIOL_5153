@@ -1,4 +1,4 @@
-##Whitney A. Murchison  
+## Whitney A. Murchison  
 University of Arkansas  
 Science & Engineering, Office:705  
 850 W. Dickson Street  
@@ -6,14 +6,14 @@ Fayetteville, AR 72701
 wamurchi@email.uark.edu    
 (985) 210-8996  
 
-##Education   
+**Education**   
 * Current: (M.S. & Ph.D) Biology Graduate Student- The University of Arkansas (2017-present)   
 * GPA: 3.78  
 * Past: Millsaps College- Jackson, MS (2010-2014)  
 	    Major: Biology, B.S.   
 	    Minors: Environmental Studies and Anthropology    
 
-##Research Experience   
+**Research Experience**   
 
 University of Arkansas, Fayetteville, AR  
 M.S. and PhD. Graduate Student  
