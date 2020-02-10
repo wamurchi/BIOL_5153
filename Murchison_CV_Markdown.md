@@ -1,5 +1,5 @@
 ## Whitney A. Murchison  
-University of Arkansas  
+**University of Arkansas**  
 Science & Engineering, Office:705  
 850 W. Dickson Street  
 Fayetteville, AR 72701  
@@ -15,38 +15,38 @@ wamurchi@email.uark.edu
 
 **Research Experience**   
 
-University of Arkansas, Fayetteville, AR  
-M.S. and PhD. Graduate Student  
-Drs. Marlis & Michael Douglas   
-August 2017-present  
-Investigating the efficiency of Greater Prairie Chicken translocations in Jasper & Marion county, Illinois. 
-DNA extraction and genotyping of GPCH, from collected feathers. 
-Identify and analyze DNA sequences of individual GPCH. 
+*University of Arkansas, Fayetteville, AR*  
+* M.S. and PhD. Graduate Student  
+* Drs. Marlis & Michael Douglas   
+* August 2017-present  
+* Investigating the efficiency of Greater Prairie Chicken translocations in Jasper & Marion county, Illinois. 
+* DNA extraction and genotyping of GPCH, from collected feathers. 
+* Identify and analyze DNA sequences of individual GPCH. 
 
-UT Southwestern Medical Center, Dallas, TX
-Research Lab Technician 
-Dr. Genevieve Kendall and Dr. James Amatruda MD
-August 2015 - August 2017
+*UT Southwestern Medical Center, Dallas, TX*
+* Research Lab Technician 
+* Dr. Genevieve Kendall and Dr. James Amatruda MD
+* August 2015 - August 2017
 
-Research on developing novel transgenic zebrafish models of pediatric alveolar rhabdomyosarcoma.
-Genotyping and monitoring of  >25 transgenic zebrafish lines. 
-Injecting zebrafish embryos with PAX3 and PAX3FOXO1 and other oncogenes to determine embryonic effects and long term effects of pediatric oncogenesis. 
-Genetic cloning of transgenic plasmids, DNA and RNA extraction. 
-Develop and validate new transgenic zebrafish lines to express human oncogenes.
+* Research on developing novel transgenic zebrafish models of pediatric alveolar rhabdomyosarcoma.
+* Genotyping and monitoring of  >25 transgenic zebrafish lines. 
+* Injecting zebrafish embryos with PAX3 and PAX3FOXO1 and other oncogenes to determine embryonic effects and long term effects of pediatric oncogenesis. 
+* Genetic cloning of transgenic plasmids, DNA and RNA extraction. 
+* Develop and validate new transgenic zebrafish lines to express human oncogenes.
 
-Millsaps College, Jackson, MS
-Student Research Assistant 
-2013-2014
-Dr. Brent Hendrixson
-2014: Conducted field research on native Mississippi insects, to create a large insect collection for the Biology department. 
-2013: Used molecular genetic techniques for a project to analyze biodiversity and phylogenetic structure of tarantulas from the American Southwest.    
+*Millsaps College, Jackson, MS*
+* Student Research Assistant 
+* 2013-2014
+* Dr. Brent Hendrixson
+* 2014: Conducted field research on native Mississippi insects, to create a large insect collection for the Biology department. 
+* 2013: Used molecular genetic techniques for a project to analyze biodiversity and phylogenetic structure of tarantulas from the American Southwest.    
  
 **Teaching Experience** 	
-University of Arkansas
-Teaching Assistant for Principles of Biology: 2017-present  
-Millsaps College
-Teaching Assistant for Cellular Biology Lab: Fall 2011 
-Biology tutoring for Tri Beta: Fall 2014  
+* University of Arkansas
+* Teaching Assistant for Principles of Biology: 2017-present  
+* Millsaps College
+* Teaching Assistant for Cellular Biology Lab: Fall 2011 
+* Biology tutoring for Tri Beta: Fall 2014  
 
 **Presentations**
 * Whitney A. Murchison. The Role of Women in STEM. Auburn-Montgomery: Alabama-Mississippi Sociological Association February 21st, 2013. 
@@ -94,17 +94,17 @@ Kendall, Genevieve C,  Sarah Watson, Lin Xu, Collette A LaVigne, Whitney Murchis
 * Mandeville Wastewater Treatment Facility: Mandeville, LA: Fall 2009
 
 **Volunteer Work & Extra Curricular Activities** 
-Alex’s Million Mile September 2015, 2016 & 2017: Raise awareness for pediatric cancer and cancer research. 
-Total amount raised to date: $26,502 
-Research hours funded: 530 hours
-Conservation ambassador for the Dallas Zoo: May 2016-August 2016
-Louisiana Youth Wetlands Program: Fall 2014.
-Mandeville Public Works Watershed Festival: Spring 2014.
-Jackson Zoological Park: 2014
-Varsity soccer, Millsaps College: 2010-2014
-Phi Mu sorority: 2011-2014 
-Volunteer for Children’s Miracle Network Hospitals
-Well-Spring volunteer Fall 2010: Served the community by working in a soup kitchen in Jackson, MS
+* Alex’s Million Mile September 2015, 2016 & 2017: Raise awareness for pediatric cancer and cancer research. 
+* Total amount raised to date: $26,502 
+* Research hours funded: 530 hours
+* Conservation ambassador for the Dallas Zoo: May 2016-August 2016
+* Louisiana Youth Wetlands Program: Fall 2014.
+* Mandeville Public Works Watershed Festival: Spring 2014.
+* Jackson Zoological Park: 2014
+* Varsity soccer, Millsaps College: 2010-2014
+* Phi Mu sorority: 2011-2014 
+* Volunteer for Children’s Miracle Network Hospitals
+* Well-Spring volunteer Fall 2010: Served the community by working in a soup kitchen in Jackson, MS
  
 **References** 
 Available upon request.  
