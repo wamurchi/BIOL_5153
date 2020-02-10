@@ -39,7 +39,7 @@ wamurchi@email.uark.edu
 	* 2013: Used molecular genetic techniques for a project to analyze biodiversity and phylogenetic structure of tarantulas from the American Southwest.    
  
 **Teaching Experience**
-* University of Arkansas*
+* *University of Arkansas*
 	* Teaching Assistant for Principles of Biology: 2017-present  
 
 *Millsaps College*
