@@ -39,12 +39,12 @@ wamurchi@email.uark.edu
 	* 2013: Used molecular genetic techniques for a project to analyze biodiversity and phylogenetic structure of tarantulas from the American Southwest.    
  
 **Teaching Experience**
-*University of Arkansas*
+* University of Arkansas*
 	* Teaching Assistant for Principles of Biology: 2017-present  
 
 *Millsaps College*
-	* Teaching Assistant for Cellular Biology Lab: Fall 2011 
-	* Biology tutoring for Tri Beta: Fall 2014  
+* Teaching Assistant for Cellular Biology Lab: Fall 2011 
+* Biology tutoring for Tri Beta: Fall 2014  
 
 **Presentations:**
 * Whitney A. Murchison. The Role of Women in STEM. Auburn-Montgomery: Alabama-Mississippi Sociological Association February 21st, 2013. 
