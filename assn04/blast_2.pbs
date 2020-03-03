@@ -1,0 +1,33 @@
+#!/bin/bash
+
+#PBS -N BLAST
+#PBS -q debug12core
+#PBS -j oe
+#PBS -m abe
+#PBS -M wamurchi@uark.edu
+#PBS -o murchison_assn04.2.out
+#PBS -l nodes=1:ppn=1
+#PBS -l walltime=00:00:30:00
+
+cd $PBS_O_WORKDIR
+
+module load blast/2.6.0+
+cat *.fasta | makeblastdb -in /home/wamurchi/watermelon_files/mt_genomes/ -dbtype nucl
+blastn -query nad4L.fasta -db /home/wamurchi/watermelon_files/mt_genomes/
+
+#!/bin/bash
+
+#PBS -N BLAST
+#PBS -q q30m32c
+#PBS -j oe
+#PBS -m abe
+#PBS -M wamurchi@uark.edu
+#PBS -o BLAST.$PBS_JOBID
+#PBS -l nodes=1:ppn=1
+#PBS -l walltime=00:00:30:00
+
+cd $PBS_O_WORKDIR
+
+module load blast/2.6.0+
+cat*.fasta | makeblastdb -in /home/wamurchi/watermelon_files/watermelon_nt/*.fasta -dbtype nucl
+blastn -query nad4L.fasta -db /home/wamurchi/watermelon_files/watermelon_nt/*.fasta  

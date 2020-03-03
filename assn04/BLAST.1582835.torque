@@ -1,0 +1,9 @@
+Command line argument error: Argument "query". File is not accessible:  `nad4L.fasta'
+Head Node: tres1015
+nnodes=1 ncores=1 njobs=1
+PBS Job Statistics:
+PBS Job ID: 1582835.torque
+Resource List: neednodes=1:ppn=1,nodes=1:ppn=1,walltime=00:30:00
+Resources Used: cput=00:00:00,mem=0kb,vmem=0kb,walltime=00:00:00
+Queue Name: q30m32c
+Program Return Code: 1
