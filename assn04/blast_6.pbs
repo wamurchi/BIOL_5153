@@ -1,18 +1,18 @@
 #!/bin/bash
 
 #PBS -N BLAST
-#PBS -q debug12core
+#PBS -q tiny12core
 #PBS -j oe
 #PBS -m abe
 #PBS -M wamurchi@uark.edu
 #PBS -o murchison_assn04.6.out
-#PBS -l nodes=1:ppn=1
+#PBS -l nodes=1:ppn=12
 #PBS -l walltime=00:00:30:00
 
 cd $PBS_O_WORKDIR
 
 module load blast/2.6.0+
 
-tblastx -query nad4L.fasta -db /home/wamurchi/watermelon_files/watermelon.fsa -outfmt 
+tblastx -query nad4L.fasta -db watermelon.fsa 
 
 

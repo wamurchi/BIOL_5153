@@ -1,0 +1,12 @@
+#what is the relationship between the raw score and the size of the database? 
+I don't think I was able to find the correct raw scrore, because don't see any relationship.
+
+#The bit score and the size of the database? 
+Again, I'm not sure I see the relationship however I did notice that most of the raw scores were around 560.
+While the size of the dataabses were aorund 379,000.
+
+#The e-value and the size of the database?
+The e-value was much larger that the size of the database.
+
+# Why? 
+I dont know why, but if I had to guess, it's beacause the e-value is including everything in the file, whereas the bit score and raw score are better inidcators of the matches made?

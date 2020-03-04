@@ -1,0 +1,9 @@
+/var/spool/torque/mom_priv/jobs/4780260.sched.SC: line 1: q#!/bin/bash: No such file or directory
+BLAST options error: File /home/wamurchi/watermelon_files/mt_genomes/ does not exist
+cat: write error: Broken pipe
+BLAST Database error: No alias or index file found for nucleotide database [/home/wamurchi/watermelon_files/mt_genomes/] in search path [/scrfs/storage/wamurchi/home/watermelon_files/assn04::]
+/var/spool/torque/mom_priv/jobs/4780260.sched.SC: line 32: cat*.fasta: command not found
+BLAST options error: File /home/wamurchi/watermelon_files/watermelon_nt/*.fasta does not exist
+BLAST Database error: No alias or index file found for nucleotide database [/home/wamurchi/watermelon_files/watermelon_nt/*.fasta] in search path [/scrfs/storage/wamurchi/home/watermelon_files/assn04::]
+/var/spool/torque/mom_priv/epilogue.user: line 24: [: walltime=03: integer expression expected
+/var/spool/torque/mom_priv/epilogue.user: line 33: [: walltime=03: integer expression expected

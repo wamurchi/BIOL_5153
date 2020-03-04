@@ -1,0 +1,31 @@
+
+
+Building a new DB, current time: 03/03/2020 16:33:21
+New DB name:   /home/wamurchi/watermelon_files/mt_genomes/
+New DB title:  /home/wamurchi/watermelon_files/mt_genomes/
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+
+
+Building a new DB, current time: 03/03/2020 16:33:21
+New DB name:   /home/wamurchi/watermelon_files/watermelon_nt/*.fasta
+New DB title:  /home/wamurchi/watermelon_files/watermelon_nt/*.fasta
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+PBS Job Statistics:
+PBS Job ID: 4780260.sched
+Resource List: walltime=03:00:00
+Resources Used: cput=00:00:00,mem=0kb,vmem=0kb,walltime=00:00:00
+Queue Name: tiny12core
+Program Return Code: 2
+Head Node:
+compute1144
+PBS Job Statistics:
+PBS Job ID: 4780260.sched
+Resource List: walltime=03:00:00
+Resources Used: cput=00:00:00,mem=0kb,vmem=0kb,walltime=00:00:00
+Queue Name: tiny12core
+Program Return Code: 2
+Head Node: compute1144

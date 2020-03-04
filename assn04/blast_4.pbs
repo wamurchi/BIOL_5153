@@ -12,5 +12,8 @@
 cd $PBS_O_WORKDIR
 
 module load blast/2.6.0+
-blastn -query nad4L.fasta -db /home/wamurchi/watermelon_files/mt_genomes/mt.fasta
+
+makeblastdb in mt.fasta -dbtype nucl 
+
+blastn -query nad4L.fasta -db mt.fasta
 

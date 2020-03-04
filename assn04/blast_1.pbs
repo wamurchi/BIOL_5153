@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #PBS -N BLAST
-#PBS -q q30m32c 
+#PBS -q tiny12core
 #PBS -j oe
 #PBS -m abe
 #PBS -M wamurchi@uark.edu

@@ -1,12 +1,13 @@
 
 
-Building a new DB, current time: 03/02/2020 14:05:21
+Building a new DB, current time: 03/04/2020 12:12:09
 New DB name:   /scrfs/storage/wamurchi/home/watermelon_files/assn04/nad4L.fasta
 New DB title:  nad4L.fasta
 Sequence type: Nucleotide
+Deleted existing Nucleotide BLAST database named /scrfs/storage/wamurchi/home/watermelon_files/assn04/nad4L.fasta
 Keep MBits: T
 Maximum file size: 1000000000B
-Adding sequences from FASTA; added 1 sequences in 0.000573874 seconds.
+Adding sequences from FASTA; added 1 sequences in 0.000290871 seconds.
 BLASTN 2.6.0+
 
 
@@ -74,7 +75,7 @@ Effective search space used: 85849
 
 
   Database: nad4L.fasta
-    Posted date:  Mar 2, 2020  2:05 PM
+    Posted date:  Mar 4, 2020  12:12 PM
   Number of letters in database: 303
   Number of sequences in database:  1
 
@@ -82,11 +83,18 @@ Effective search space used: 85849
 
 Matrix: blastn matrix 1 -2
 Gap Penalties: Existence: 0, Extension: 2.5
-Head Node: tres1015
-nnodes=1 ncores=1 njobs=1
 PBS Job Statistics:
-PBS Job ID: 1582838.torque
+PBS Job ID: 4780535.sched
 Resource List: neednodes=1:ppn=1,nodes=1:ppn=1,walltime=00:30:00
 Resources Used: cput=00:00:00,mem=0kb,vmem=0kb,walltime=00:00:00
-Queue Name: q30m32c
+Queue Name: tiny12core
 Program Return Code: 0
+Head Node:
+compute1144
+PBS Job Statistics:
+PBS Job ID: 4780535.sched
+Resource List: neednodes=1:ppn=1,nodes=1:ppn=1,walltime=00:30:00
+Resources Used: cput=00:00:00,mem=0kb,vmem=0kb,walltime=00:00:00
+Queue Name: tiny12core
+Program Return Code: 0
+Head Node: compute1144
