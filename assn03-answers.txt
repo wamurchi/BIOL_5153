@@ -1,0 +1,57 @@
+fasta: 15085
+tre: 14640
+sched: 15262
+
+#6 = 445
+
+
+for i in *.fasta
+do
+	#echo $i ${i%.fasta}_raxml.tre
+	if [ -e ${i%.fasta}_raxml.tre ] 
+	then 
+	continue
+	else 
+	echo $i "_raxml.tre not found"
+	fi 
+done
+
+
+
+
+#7
+find *.sched "Program Return Code: 0" 
+#or
+find *.sched "Program Return Code: 0" | uniq | wc -l
+
+ls -l | grep sched | find *.sched "Program Return Code: 0" | uniq | wc -l
+
+grep *.sched > Sched_files
+
+4224 Sched_files
+
+for i in *.sched
+do 
+ls -l | grep "Program Return Code: 0" $i | uniq | wc -l >> grep_results.txt
+done
+
+grep "0" grep_results.txt | wc -l
+42
+
+#8
+
+for i in *.fasta
+do
+	#echo $i ${i%.fasta}_raxml.tre
+	if [ -e ${i%.fasta}_raxml.tre ] 
+	then 
+	continue
+	else 
+	write_raxml_job_script.py $i
+	fi 
+done
+
+
+EX: write_raxml_job_script.py
+EX: blastn -remote -query $fi -db nr > output/${fi%.fasta}.blastn 
+
