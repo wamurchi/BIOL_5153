@@ -35,6 +35,12 @@ with open(args.gff, 'r') as gff_file:
 			print(column, start, end)
 
 		# if it is a CDS feature, then extract the substring/sequence
+	reader = csv.reader(gff_file, delimiter="\t")
+
+	for line in reader:
+		if line [2] =="CDS"
+			print(line[2])
+
 			#if (start =="CDS"):
 			#print(start, end)
 
@@ -51,5 +57,19 @@ GC_content = (GC_count / length, round(c,2))
 # now print the counts
 print("GC %: " + str(GC_content))
 			
+# or wirte a function to calcuate GC content:
+dna_percent = open(args.fasta)
+dna_contents = dna_percent.read()
+
+def get_at_content():
+ length = len(dna_contents)
+ g_count = dna_contents.upper().count('A')
+ c_count = dna_contents.upper().count('T')
+ at_content = (g_count + c_count) / length
+ return round(gc_content, 2) 
+
+print(get_at_content())
+
+
 #args.fasta.close() 
 #args.gff.close()
